@@ -9,3 +9,4 @@
 | 7    | Hangman Game |
 | 8    | Function Parameters (aka Function with input) |
 | 9    | Dictionaries |
+| 10   | Functions with output |
