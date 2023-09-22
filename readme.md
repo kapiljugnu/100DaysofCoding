@@ -12,3 +12,22 @@
 | 10   | Functions with output |
 | 11   | Blackjack Capstone Project |
 | 12   | Scope |
+| 13   | Debugging |
+
+
+#### Problem Solving
+- Break a problem into list of smaller problem
+- Build Todos list
+- Turn the problem into comments
+- Write code -> Run code -> Fix code 
+- Build Flowcharts
+
+#### Debugging
+- Describe the problem
+- Reproducing the bug
+- Play computer
+- Fix errors and watching for red underlines (editor suggestions)
+- Print is your friend
+- Using a debugger eg - [pythontutor](https://pythontutor.com/render.html#mode=edit)
+- Take a break (brain downtime, ask friend)
+- Ask stackoverflow
