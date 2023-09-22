@@ -13,6 +13,7 @@
 | 11   | Blackjack Capstone Project |
 | 12   | Scope |
 | 13   | Debugging |
+| 14   | Higher Lower Game |
 
 
 #### Problem Solving
