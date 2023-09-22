@@ -11,3 +11,4 @@
 | 9    | Dictionaries |
 | 10   | Functions with output |
 | 11   | Blackjack Capstone Project |
+| 12   | Scope |
