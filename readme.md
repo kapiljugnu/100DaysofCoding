@@ -14,6 +14,7 @@
 | 12   | Scope |
 | 13   | Debugging |
 | 14   | Higher Lower Game |
+| 15   | Env setup and Coffee machine |
 
 
 #### Problem Solving
