@@ -15,6 +15,7 @@
 | 13   | Debugging |
 | 14   | Higher Lower Game |
 | 15   | Env setup and Coffee machine |
+| 16   | Object Oriented Programming |
 
 
 #### Problem Solving
@@ -33,3 +34,14 @@
 - Using a debugger eg - [pythontutor](https://pythontutor.com/render.html#mode=edit)
 - Take a break (brain downtime, ask friend)
 - Ask stackoverflow
+
+#### Procedual Programming (earliest paradigm)
+one function is changing some variable and the same function is doing something to another variable at some point over code start to look very very spagitteand at this point it is hard to track and what is going in over code.
+Where we set one procedure to do one particular thing and one procedure leads to another procedure and all in all computer is jumping from top to bottom and jumping into the function as needed.
+It is difficult to create a large project with procedual programming.
+
+#### Object Oriented Programming
+We can split the larger task into smaller task and that task become reusable. Each have individual role.
+
+Try to real world object which ***has*** attributes (variables)(not free floating inside the file) and ***does*** methods (function)(not free floating inside the file)
+
