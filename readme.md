@@ -16,6 +16,7 @@
 | 14   | Higher Lower Game |
 | 15   | Env setup and Coffee machine |
 | 16   | Object Oriented Programming |
+| 17   | Benefits of OOP, Quiz game, Creating class |
 
 
 #### Problem Solving
