@@ -17,6 +17,7 @@
 | 15   | Env setup and Coffee machine |
 | 16   | Object Oriented Programming |
 | 17   | Benefits of OOP, Quiz game, Creating class |
+| 18   | Turtle & GUI , Tuples |
 
 
 #### Problem Solving
