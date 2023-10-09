@@ -19,6 +19,7 @@
 | 17   | Benefits of OOP, Quiz game, Creating class |
 | 18   | Turtle & GUI , Tuples |
 | 19   | Instances, State, Higher order functions, functions as input |
+| 20   | Snake Game Part 1 |
 
 
 #### Problem Solving
