@@ -21,6 +21,7 @@
 | 19   | Instances, State, Higher order functions, functions as input |
 | 20   | Snake Game Part 1 |
 | 21   | Class Inheritance, slicing and Snake Game Part 2 |
+| 22   | Pong Game |
 
 
 #### Problem Solving
