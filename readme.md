@@ -22,6 +22,7 @@
 | 20   | Snake Game Part 1 |
 | 21   | Class Inheritance, slicing and Snake Game Part 2 |
 | 22   | Pong Game |
+| 23   | Turtle Capstone Project |
 
 
 #### Problem Solving
