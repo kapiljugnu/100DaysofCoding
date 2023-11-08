@@ -24,6 +24,7 @@
 | 22   | Pong Game |
 | 23   | Turtle Capstone Project |
 | 24   | Files, directories, paths, mail merge project |
+| 25   | Working with csv data, panda library |
 
 
 #### Problem Solving
