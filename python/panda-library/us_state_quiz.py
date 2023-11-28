@@ -29,10 +29,7 @@ while len(guessed_state) < 50:
         t.goto(state_x, state_y)
         t.write(state_data.state.item())
 
-states_to_learn = []
-for state in all_states:
-    if state not in guessed_state:
-       states_to_learn.append(state)
+states_to_learn = [state for state in all_states if state not in guessed_state]
 
 df = pandas.DataFrame(states_to_learn)
 df.to_csv("states_to_learn.csv")

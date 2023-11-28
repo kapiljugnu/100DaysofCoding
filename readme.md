@@ -25,6 +25,7 @@
 | 23   | Turtle Capstone Project |
 | 24   | Files, directories, paths, mail merge project |
 | 25   | Working with csv data, panda library |
+| 26   | List, Dictionary Comprehension, and NATO Alphabet Project  |
 
 
 #### Problem Solving
