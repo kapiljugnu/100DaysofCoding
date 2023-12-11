@@ -28,6 +28,7 @@
 | 26   | List, Dictionary Comprehension, and NATO Alphabet Project  |
 | 27   | GUI with Tkinter and function arguments (default, args, and kwargs) |
 | 28   | Pomodoro with tinker |
+| 29   | Password Manager GUI |
 
 
 
