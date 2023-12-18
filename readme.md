@@ -29,6 +29,7 @@
 | 27   | GUI with Tkinter and function arguments (default, args, and kwargs) |
 | 28   | Pomodoro with tinker |
 | 29   | Password Manager GUI |
+| 30   | Errors, Exceptions and JSON data |
 
 
 

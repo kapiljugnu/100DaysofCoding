@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import string
 import random
+import json
 
 DEFAULT_EMAIL = "angela@gmail.com"
 
@@ -24,13 +25,44 @@ def save_password():
     is_ok = messagebox.askokcancel(title=website, message=f"These are the details entered:\n Email: {username}\n Password: {password}\n Is it ok to save?")
     
     if is_ok:
-        with open('data.txt', "a") as file:
-            file.write(f"{website} | {username} | {password}\n")
-        
+        new_data = {
+            website: {
+                "email": username,
+                "password": password
+            }
+        }
+
+        try:
+            with open('data.json', "r") as f:
+                data = json.load(f)
+        except FileNotFoundError:
+            data = new_data
+        else:
+            data.update(new_data)
+
+        with open('data.json', "w") as file:
+            json.dump(data, file, indent=4)
             website_input.delete(0, END)
             password_input.delete(0, END)
             username_input.delete(0, END)
             username_input.insert(0, DEFAULT_EMAIL)
+
+
+# ---------------------------- Find Password ------------------------------- #
+def find_password():
+    website = website_input.get()
+    try:
+        with open("data.json") as file:
+            data = json.load(file)
+    except FileNotFoundError:
+         messagebox.showinfo(title="Error", message=f"No Data File Found")
+    else:
+        if website in data:
+            email = data[website]["email"]
+            password = data[website]["password"]
+            messagebox.showinfo(title=website, message=f"Email: {email}\n Password: {password}")
+        else:
+            messagebox.showinfo(title="Error", message=f"No details for {website} exists")
 
 # ---------------------------- UI SETUP ------------------------------- #
 
@@ -46,8 +78,8 @@ canvas.grid(row=0, column=1)
 website_label = Label(text="Website:")
 website_label.grid(row=1, column=0)
 
-website_input = Entry(width=37)
-website_input.grid(row=1, column=1, columnspan=2)
+website_input = Entry()
+website_input.grid(row=1, column=1)
 website_input.focus()
 
 username_label = Label(text="Email/Username:")
@@ -68,6 +100,9 @@ generate_password_button.grid(row=3, column=2)
 
 add_button = Button(text="Add", width=35, command=save_password)
 add_button.grid(row=4, column=1, columnspan=2)
+
+search_button = Button(text="Search", command=find_password)
+search_button.grid(row=1, column=2)
 
 
 
