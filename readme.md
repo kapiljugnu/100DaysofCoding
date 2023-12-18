@@ -30,6 +30,7 @@
 | 28   | Pomodoro with tinker |
 | 29   | Password Manager GUI |
 | 30   | Errors, Exceptions and JSON data |
+| 31   | Flash Card capstone project |
 
 
 
