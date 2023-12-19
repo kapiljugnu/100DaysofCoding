@@ -31,6 +31,7 @@
 | 29   | Password Manager GUI |
 | 30   | Errors, Exceptions and JSON data |
 | 31   | Flash Card capstone project |
+| 32   | SMTP, datetime module, pythonanywhere.com |
 
 
 
