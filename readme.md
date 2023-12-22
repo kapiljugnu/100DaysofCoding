@@ -32,6 +32,7 @@
 | 30   | Errors, Exceptions and JSON data |
 | 31   | Flash Card capstone project |
 | 32   | SMTP, datetime module, pythonanywhere.com |
+| 33   | API, ISS overhead notifier |
 
 
 
@@ -64,5 +65,30 @@ Try to real world object which ***has*** attributes (variables)(not free floatin
 
 #### Higher order functions
 💡 Function that can work with other function.
+
+### Application Programming Interface (API)
+API is a set of commands, functions, protocols, and objects that programmers can use to create software or interact with an external system.
+API is a bearer between your program and external system. You are trying to use the rules that API have describe to make a request to the external system for some piece of data.
+
+#### API Endpoint
+I we want to get data from external service we need to know what location that is stored.
+eg - money out of bank you need to know where the bank is and what it address.
+
+In api lingo addrees is called API Endpoint.
+
+
+#### API Request
+Similar to try withdraw some money out of bank.
+Teller (Validator) - Can I help you? To Prevent you from accessing the resource.
+
+#### Response Codes
+1xx - Hold on , something is happening , this is not final
+2xx - Here you go, everything is successful , you should be getting the data you spected
+3xx - You don't have permission to do this thing, Go Away.
+4xx - You Screwed up, or what you are looking for doesn't exists.
+5xx - I screwed up.
+
+#### API Parameters
+Give input when make request , so that you get different pieces of data back depend on input.
 
 
