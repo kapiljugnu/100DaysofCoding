@@ -35,6 +35,7 @@
 | 33   | API, ISS overhead notifier |
 | 34   | API Practice, GUI Quiz |
 | 35   | API Keys, Authentication, Environment Variables |
+| 36   | Stock trading news alert project |  
 
 
 
