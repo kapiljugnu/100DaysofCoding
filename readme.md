@@ -34,6 +34,7 @@
 | 32   | SMTP, datetime module, pythonanywhere.com |
 | 33   | API, ISS overhead notifier |
 | 34   | API Practice, GUI Quiz |
+| 35   | API Keys, Authentication, Environment Variables |
 
 
 
@@ -91,5 +92,16 @@ Teller (Validator) - Can I help you? To Prevent you from accessing the resource.
 
 #### API Parameters
 Give input when make request , so that you get different pieces of data back depend on input.
+
+#### API Key
+With API Key the API provider can track how much you are using the API and to authorise your access or deny your access.
+Like Your personal account number and password
+
+
+#### Environment Variables
+Used for
+- Convenience : change without touching large code base 
+- Security : uploading codebase somewhere, not a good idea to store api key, auth keys to store with it.
+
 
 
