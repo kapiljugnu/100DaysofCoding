@@ -38,6 +38,8 @@
 | 36   | Stock trading news alert project | 
 | 37   | Habit Tracker Project | 
 | 38   | Workout Tracker Project |
+| 39   | Flight Deal Finder Part 1 |
+| 40   | Flight Deal Finder Part 2 |
 
 
 
