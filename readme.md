@@ -37,6 +37,7 @@
 | 35   | API Keys, Authentication, Environment Variables |
 | 36   | Stock trading news alert project | 
 | 37   | Habit Tracker Project | 
+| 38   | Workout Tracker Project |
 
 
 
