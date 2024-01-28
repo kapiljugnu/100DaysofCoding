@@ -44,6 +44,7 @@
 | 42   | Web Foundation - Intermediate HTML, Birthday Invite Project |
 | 43   | Web Foundation - CSS, Color Vocab Project |
 | 44   | Web Foundation - Intermediate CSS, Motivation Meme Project |
+| 45   | Web scraping with Beautiful Soup |
 
 
 
@@ -111,6 +112,11 @@ Like Your personal account number and password
 Used for
 - Convenience : change without touching large code base 
 - Security : uploading codebase somewhere, not a good idea to store api key, auth keys to store with it.
+
+#### Web scraping
+Data that is publicily available and not copyrighted is fair game for web crawlers.
+You can't commercialise copyrighted content
+You can't scrape data behind authentication
 
 
 
