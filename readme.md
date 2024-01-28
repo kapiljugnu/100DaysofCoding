@@ -40,6 +40,10 @@
 | 38   | Workout Tracker Project |
 | 39   | Flight Deal Finder Part 1 |
 | 40   | Flight Deal Finder Part 2 |
+| 41   | Web Foundation - HTML, Movie Ranking Project |
+| 42   | Web Foundation - Intermediate HTML, Birthday Invite Project |
+| 43   | Web Foundation - CSS, Color Vocab Project |
+| 44   | Web Foundation - Intermediate CSS, Motivation Meme Project |
 
 
 
