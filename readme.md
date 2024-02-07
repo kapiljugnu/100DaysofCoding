@@ -46,6 +46,8 @@
 | 44   | Web Foundation - Intermediate CSS, Motivation Meme Project |
 | 45   | Web scraping with Beautiful Soup |
 | 46   | Webscraping billboard |
+| 47   | Webscraping product price |
+
 
 
 
