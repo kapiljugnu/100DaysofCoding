@@ -48,6 +48,7 @@
 | 46   | Webscraping billboard |
 | 47   | Webscraping product price |
 | 48   | Seleium Webscraping, Python upcoming events, Cookie Clicker Project |
+| 49   | Automated job application |
 
 
 
