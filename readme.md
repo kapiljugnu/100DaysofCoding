@@ -45,6 +45,7 @@
 | 43   | Web Foundation - CSS, Color Vocab Project |
 | 44   | Web Foundation - Intermediate CSS, Motivation Meme Project |
 | 45   | Web scraping with Beautiful Soup |
+| 46   | Webscraping billboard |
 
 
 
