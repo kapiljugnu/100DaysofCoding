@@ -50,6 +50,11 @@
 | 48   | Seleium Webscraping, Python upcoming events, Cookie Clicker Project |
 | 49   | Automated job application |
 | 50   | Tinder swipe bot |
+| 65   | Web Design |
+| 72   | Advance Data Exploration with Pandas |
+| 73   | Data Visualisation with Matplotlib |
+| 74   | Lego Analysis |
+| 75   | Google Trend Data |
 
 
 
@@ -123,5 +128,62 @@ Data that is publicily available and not copyrighted is fair game for web crawle
 You can't commercialise copyrighted content
 You can't scrape data behind authentication
 
+
+
+### Web Design Principles
+#### Colour Theory
+Art and science of creating the right palette for your website
+
+While picking color beaware the mood of your color palette and what message I am trying to convey to the user and pick appropriate color.
+Red - Love, energy and intensity.
+Yellow - Joy, intellect and attention.
+Green - Freshness, safety and growth
+Blue - Stability, trust and serenity
+Purple - Royality, wealth and femininity
+
+How to choose color?
+- taking 2 color right next to each other on color wheel. (Nav, body) (called - Analogue color), The approach is not good at standing out
+- you can choose color from opposite end of color wheel. (called - complementary color), Don't use this approach for text and text background
+- Draw a traingle to create color palette
+- Draw a perfect square
+
+https://colorhunt.co/
+
+https://color.adobe.com/create/color-wheel
+
+#### Typography
+Font matters, Different font have different moods, in design stick to 2 fonts
+large family
+- serif (feet) (moods - Traditonal, stable, respectable)
+- sans-serif (perfect right angles) (moods - sensible, simple, straightforward)
+
+#### User Interface Design (UI)
+#### Define Heirarchy
+- using colors
+- size
+#### Layout
+- use blocks instead of flat structure
+- 40 to 60 character per line
+#### Aligment
+- reduce the number of aligment points
+#### White space
+empty space around the text , element
+#### Audience
+Think about audience
+
+#### User Experience Design (UX)
+##### Simplicity
+If choice between complexity and simplicity choose simplicity
+##### Consistency
+User confuse when navigating
+#### Reading patterns
+- F pattern (important part on left)
+- Z pattern (eyes from left to right and then zigzag down)
+#### All platform design (mobile responsive)
+#### Don't use your power for evil
+To perform an action which user not want
+
+
+https://www.dailyui.co/
 
 
